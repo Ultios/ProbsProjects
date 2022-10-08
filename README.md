@@ -12,3 +12,6 @@ Tugas Project Prob.ipynb
 
 Analisis:
 Tugas Project Prob.pptx
+
+Video Presentasi:
+https://www.youtube.com/playlist?list=PLUwgwUlBGS5zEs5K9r-xhO1Dgvddr29Tk
